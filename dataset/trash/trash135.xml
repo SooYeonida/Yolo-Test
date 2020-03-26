@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>trash135.jpg</filename>
+	<path>D:\darkflow\dataset\image\trash135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>50</ymin>
+			<xmax>433</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>
