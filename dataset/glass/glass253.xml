@@ -1,7 +1,7 @@
 <annotation>
 	<folder>glass</folder>
 	<filename>glass253.jpg</filename>
-	<path>/Users/choejaeung/Downloads/ResNet_TC/dataset/glass/glass253.jpg</path>
+	<path>C:\Users\A\Desktop\Freitag-v1\dataset\dataset\glass\glass253.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,25 +14,25 @@
 	<object>
 		<name>glass</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>196</xmin>
+			<xmin>197</xmin>
 			<ymin>139</ymin>
-			<xmax>360</xmax>
-			<ymax>383</ymax>
+			<xmax>348</xmax>
+			<ymax>384</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>label</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>218</xmin>
-			<ymin>190</ymin>
-			<xmax>353</xmax>
-			<ymax>384</ymax>
+			<xmin>227</xmin>
+			<ymin>184</ymin>
+			<xmax>354</xmax>
+			<ymax>351</ymax>
 		</bndbox>
 	</object>
 </annotation>
